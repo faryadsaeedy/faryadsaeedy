@@ -21,6 +21,24 @@
 
 ---
 
+## ✨ About Me
+
+💻 **Interests**
+
+* 🚀 Exploring **software development** and **new technologies**
+* 🌍 Building impactful **open-source projects**
+* 🎨 Combining **creativity** with **problem-solving**
+* 📚 Continuous learning & personal growth
+
+🎯 **Goals**
+
+* 🌟 Contribute to open-source communities
+* 🛠️ Develop innovative tools that help others
+* 🤝 Collaborate with developers worldwide
+* 💡 Grow as a **full-stack developer** and beyond
+
+---
+
 ## 📊 GitHub Insights
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faryadsaeedy&show_icons=true&theme=tokyonight&hide_border=true)  
 
