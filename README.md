@@ -1,5 +1,5 @@
 
-# 👋 Hello, I'm ![ Faryad](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=FF6F61&center=true&width=500&height=60&lines=Faryad+%F0%9F%92%BB+%F0%9F%9A%80+%F0%9F%8C%8D+%F0%9F%8E%A8+%E2%9C%A8)
+# 👋 Hello, I'm ![Faryad](https://readme-typing-svg.demolab.com?font=Roboto&size=40&pause=1000&color=FF6F61&center=true&width=500&height=60&lines=Faryad+%F0%9F%92%BB+%F0%9F%9A%80+%F0%9F%8C%8D+%F0%9F%8E%A8+%E2%9C%A8)
 
 💻 **Frontend Developer** | Passionate about clean code ✨ and modern web design 🎨  
 🌱 Constantly learning and growing to craft better digital experiences 🚀  
